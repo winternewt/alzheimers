@@ -1,0 +1,21 @@
+# MAPT Protein Comparison: Human vs Mouse
+## Sequence Analysis for Alzheimer's Research Project
+
+### Sequence Information:
+**Human MAPT (Homo sapiens)**
+- Ensembl ID: ENSG00000186868
+- UniProt ID: A0A7I2PJZ2
+- Length: 833 amino acids
+- Transcript: ENST00000262410
+
+**Mouse MAPT (Mus musculus)**
+- Ensembl ID: ENSMUSG00000018411
+- UniProt ID: A2A5Y6
+- Length: 749 amino acids
+- Transcript: ENSMUST00000106989
+
+### Basic Comparison:
+- **Length difference**: Human is 84 amino acids longer (833 vs 749)
+- **Size ratio**: Mouse is ~90% the length of human MAPT
+
+### Sequence Alignment (First 100 amino acids): 

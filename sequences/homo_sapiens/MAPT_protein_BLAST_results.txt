@@ -1,0 +1,65 @@
+# BLAST Results for Human MAPT Protein
+## Query: Human MAPT protein sequence (833 amino acids)
+## Database: nr (non-redundant protein sequences)
+## Program: blastp
+## Date: Analysis performed for Alzheimer's research project
+
+## Top 5 BLAST Hits:
+
+### 1. Microtubule-associated protein tau isoform 9 [Homo sapiens]
+- **Accession**: NP_001364194.1
+- **Max Score**: 1649
+- **Total Score**: 1649
+- **Query Cover**: 100%
+- **E-value**: 0.0
+- **Percent Identity**: 100.00%
+- **Accession Length**: 833 amino acids
+- **Taxid**: 9606 (Homo sapiens)
+
+### 2. Microtubule associated protein tau [Homo sapiens]
+- **Accession**: KAI2583557.1
+- **Max Score**: 1645
+- **Total Score**: 1645
+- **Query Cover**: 100%
+- **E-value**: 0.0
+- **Percent Identity**: 99.88%
+- **Accession Length**: 833 amino acids
+- **Taxid**: 9606 (Homo sapiens)
+
+### 3. Microtubule-associated protein tau isoform X1 [Homo sapiens]
+- **Accession**: XP_005257419.1
+- **Max Score**: 1634
+- **Total Score**: 1634
+- **Query Cover**: 100%
+- **E-value**: 0.0
+- **Percent Identity**: 96.64%
+- **Accession Length**: 862 amino acids
+- **Taxid**: 9606 (Homo sapiens)
+
+### 4. Microtubule-associated protein tau isoform X2 [Pan troglodytes]
+- **Accession**: XP_009430182.1
+- **Max Score**: 1633
+- **Total Score**: 1633
+- **Query Cover**: 100%
+- **E-value**: 0.0
+- **Percent Identity**: 99.28%
+- **Accession Length**: 833 amino acids
+- **Taxid**: 9598 (Pan troglodytes - chimpanzee)
+
+### 5. Microtubule-associated protein tau isoform X1 [Homo sapiens]
+- **Accession**: XP_054172106.1
+- **Max Score**: 1630
+- **Total Score**: 1630
+- **Query Cover**: 100%
+- **E-value**: 0.0
+- **Percent Identity**: 96.52%
+- **Accession Length**: 862 amino acids
+- **Taxid**: 9606 (Homo sapiens)
+
+## Summary:
+- Perfect match found with human tau isoform 9 (100% identity)
+- High conservation across human tau isoforms (96.52-100% identity)
+- Excellent conservation with chimpanzee tau (99.28% identity)
+- All hits show complete query coverage (100%)
+- All E-values are 0.0, indicating highly significant matches
+- Results confirm the sequence is authentic human MAPT/tau protein 
