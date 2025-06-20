@@ -1,0 +1,26 @@
+I wanna explore druggable Alzheimer targets. 
+Let's start from a longevity perspective, what genes are associated with Alzheimer's?
+Write the discoveries into alheimer_longevity.md
+
+Interesting! None of the genes/proteins commonly associated with Alzheimer's showed up! Like Amyloid-beta, TAU, APOE, TERM2
+Maybe check for anti-longevity genes in your query then?
+
+Huh, let's proceed with an unconventional approach and explore your hypothesis that traditional Alzheimer's Genes Are Anti-Longevity
+Check what we have on each of those in SynergyAge, if you're right we should see some antagonism with at least some of these.
+Write findings into synergy_antagonism.md
+
+Well yeah, apparently you're onto something here with the AMPK pathway. Ampakines seem to be a novel trend in AD drug research. Let's switch to traditional targets and see how that fits the puzzle. Dig stuff on traditional targets, especially pathways.
+
+Metformin for AMPK activation you say? Okay, get me info on metformin pharmacology and write out anything that's related to Alzheimer's
+
+Let's explore pathology next. I wanna know how far our A-beta and TAU are from that of the other species. First, fetch me the gene sequences for homo sapiens.
+ Write them in separate files in species-named folders, focus on Amyloid beta of humans for now.
+
+DONT ASK FOR MAPT SEQUNCE - > infinite loops. Ask for protein. 
+
+Ok, I saved MAPT myself from your outputs. Bring the protein sequnce for human MAPT
+
+Now get MAPT protein for mouse.
+Blast human’s MAPT with limit 5.
+
+Align what you got for mouse and human (didn’t succeed)
